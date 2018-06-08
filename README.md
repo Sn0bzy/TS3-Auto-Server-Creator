@@ -7,5 +7,5 @@ And upload all file to your FTP
 
 ## Credits
 
-Hasan CAN - https://hasan.im
-EscuderoKevin93 - https://github.com/EscuderoKevin93
+-Hasan CAN - https://hasan.im
+-EscuderoKevin93 - https://github.com/EscuderoKevin93
